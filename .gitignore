@@ -8,7 +8,11 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+.sass-cache/
 
 # Intellij
 .idea/
 *.iml
+
+# VSCode
+.vscode/
