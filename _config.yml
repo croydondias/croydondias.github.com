@@ -3,7 +3,7 @@ title: Croydon's personal website
 email: croydondias@gmail.com
 description: >
   A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
+baseurl: ""
 url: "https://croydondias.github.io"
 twitter_username: croydondias
 github_username:  croydondias
