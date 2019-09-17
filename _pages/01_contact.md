@@ -4,6 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Want to work with me? Just send me an e-mail.
-
-My e-mail is [croydondias@gmail.com](mailto:croydondias@gmail.com).
+Want to work with me? Just shoot me an e-mail at croydondias <@> gmail.com.
